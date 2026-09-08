@@ -1,4 +1,4 @@
-# RV-Prior-Mamba
+# RVPNet(RV-Prior-Mamba)
 RV-Prior-Mamba official source code repository.
 Our code is shown in our_model.The pth will be published soon.
 # OCTA Dataset Description
