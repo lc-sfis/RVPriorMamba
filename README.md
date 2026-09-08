@@ -103,7 +103,7 @@ Here’s the English version of the README for your script:
 
 ---
 
-# JointOCTAMamba Multi-task Prediction
+# RVPNet Multi-task Prediction
 
 This project provides the **multi-task prediction** script `predict_multitask.py` for OCTA images. It runs inference using trained models and exports prediction results.
 
