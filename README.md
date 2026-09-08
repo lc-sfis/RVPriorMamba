@@ -1,5 +1,5 @@
 # RVPNet(RV-Prior-Mamba)
-RV-Prior-Mamba official source code repository.
+RVPNet official source code repository.
 Our code is shown in our_model.The pth will be published soon.
 # OCTA Dataset Description
 OCTA_500_3M_XX is the dataset layout used for single-network training.
